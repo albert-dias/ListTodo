@@ -1,0 +1,4 @@
+./web/node_modules
+./back/node_modules
+/web/node_modules
+/back/node_modules
