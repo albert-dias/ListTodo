@@ -40,7 +40,7 @@ For the web app...
 In another tab of the terminal access the web folder
 
 ```sh
-cd web
+cd front
 yarn "or" npm -i
 yarn start "or" npm run start
 ```

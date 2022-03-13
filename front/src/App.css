@@ -1,0 +1,21 @@
+.container {
+    padding: 1rem;
+    text-align: center;
+}
+
+.container h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+#simple-modal-title{
+    color: #121318;
+}
+
+#simple-modal-description{
+    color: #999;
+}
+
+#modal{
+    left: calc(50vw - 250px) !important;
+}
